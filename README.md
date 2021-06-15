@@ -4,7 +4,7 @@ This repository contains the files of the first task which is Controlling Servo 
 2- Program the servos to rotate with 90 degrees.
 3- Add potentiometers to control each servo.
 
-#Part 1: Circuit Connections 
+# Part 1: Circuit Connections 
 As shown in the Picture "Task1-Part1-Servo Circuit", this simple circuit controls 5 servo motors. The model of the hardware servo that will be used is MG995.
 
 Components used:
@@ -19,5 +19,5 @@ Connections:
 -The 5V pin of the Arduino is connected to the breadboard with the power pins of all servos.
 -The Ground pin the Arduino is connected to the breadboard with the Ground pins of all servos.
 
-#Part 1: Code
+# Part 1: Code
 The simple code (Controlling_5_Servos) used to control the servos by first including the servo.h library and then by defining the pins and initializing the servos by using the .attach() function. Finally, a loop() will start to rotate the servos to 0 degree, then wait a 1.5s before rotating to 90 degree, again then wait a 1.5s before rotating to1 80 degree and repeat. 
