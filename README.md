@@ -5,7 +5,8 @@ This repository contains the files of the first task which is Controlling Servo 
 3- Add potentiometers to control each servo.
 
 # Part 1: Circuit Connections 
-As shown in the Picture "Task1-Part1-Servo Circuit", this simple circuit controls 5 servo motors. The model of the hardware servo that will be used is MG995.
+As shown in the Picture below, this simple circuit controls 5 servo motors. The model of the hardware servo that will be used is MG995.
+![Servos Circuit](https://user-images.githubusercontent.com/85955049/122106912-2da69080-ce23-11eb-8cd3-57340170ff72.png)
 
 Components used:
 -Arduino Uno R3.
