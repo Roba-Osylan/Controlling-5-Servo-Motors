@@ -13,7 +13,7 @@ Components used:
 -Breadboard.
 -5 Micro Servos.
 -Jumber Wires.
-Note: An external 5V or 6V battery should be used to power all servos when making this project with hardware components.
+**Note: An external 5V or 6V battery should be used to power all servos when making this project with hardware components.**
 
 Connections:
 -The Signal Pins (PWM) of servos 1, 2, 3, 4 and 5 are connected to the digital pins of the Arduino 10, 9, 6, 5 and 3 respectively.
