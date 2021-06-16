@@ -2,7 +2,7 @@
 This repository contains the files of the first task which is Controlling Servo Motors. The task is divided into three parts:
 1- Design an electronic circuit that controls 5 servo motors using Arduino.
 2- Program the servos to rotate with 90 degrees.
-3- Add potentiometers to control each servo.
+3- Add potentiometers to control each servo (optional).
 
 # Part 1: Circuit Connections 
 As shown in the Picture below, this simple circuit controls 5 servo motors. The model of the hardware servo that will be used is MG995.
