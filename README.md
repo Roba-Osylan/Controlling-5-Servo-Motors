@@ -4,7 +4,7 @@ Part 1: Design an electronic circuit that controls 5 servo motors using Arduino.
 Part 2: Program the servos to rotate with 90 degrees.
 Part 3: Add potentiometers to control each servo (optional).
 
-# Part 1: Circuit Connections 
+# Part 1: Circuit Design and Connections 
 As shown in the Picture below, this simple circuit controls 5 servo motors. The model of the hardware servo that will be used is MG995.
 ![Servos Circuit](https://user-images.githubusercontent.com/85955049/122106912-2da69080-ce23-11eb-8cd3-57340170ff72.png)
 
@@ -20,5 +20,5 @@ Connections:
 -The 5V pin of the Arduino is connected to the breadboard with the power pins of all servos.
 -The Ground pin the Arduino is connected to the breadboard with the Ground pins of all servos.
 
-# Part 2: Code
+# Part 2: Code for Servo Programming
 The simple code (Controlling_5_Servos) used to control the servos by first including the servo.h library and then by defining the pins and initializing the servos by using the .attach() function. Finally, a loop() will start to rotate the servos to 90 degree, then wait a 1.5s before rotating to 0 degree (back to the initial point).
