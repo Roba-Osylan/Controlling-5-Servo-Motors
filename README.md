@@ -2,7 +2,7 @@
 This repository contains the files of the first assigned task in the electronics and electric power track which is to design and program the circuit that controls the five joints of a robotic arm. This could be done by using a microcontroller, specifically Arduino, to control the servo motors which can be programmed to have a rotation with specific angles. The task is divided into three parts:
 Part 1: Design an electronic circuit that controls 5 servo motors using Arduino.
 Part 2: Program the servos to rotate with 90 degrees.
-Part 3: Add potentiometers to control each servo (optional).
+Part 3: Add potentiometers to control each servo (optional, see https://github.com/Roba-Osylan/Controlling-Servos-using-Potentiometers).
 
 # Part 1: Circuit Design and Connections 
 
